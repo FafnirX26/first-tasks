@@ -58,7 +58,7 @@
 - **Competitive performance with moderate overfitting**
 
 #### 3. Support Vector Machines
-- **Best Configuration**: C=0.1, RBF kernel
+- **Best Configuration**: C=0.1, radial basis function kernel
 - **Test Accuracy**: 86.00%
 - **Test AUROC**: 0.8160
 - **Prone to overfitting with high C values**
