@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-Flexible script to run individual analysis components
-
-Usage examples:
-  python run_analysis.py --all          # Run all analyses
-  python run_analysis.py --decade       # Just decade analysis
-  python run_analysis.py --yearly       # Just yearly trends
-  python run_analysis.py --weekday      # Just weekday patterns
-  python run_analysis.py --seasonal     # Just seasonal analysis
-"""
 import argparse
 import sys
 import os
