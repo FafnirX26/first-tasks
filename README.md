@@ -13,7 +13,6 @@
 **Key Findings:**
 - Cyclical patterns with periods of increase and decrease
 - Notable changes between consecutive decades
-- Overall pattern reflects broader demographic and social changes
 
 #### 2. Births by Weekday (1960s-1980s)
 ![Births by Weekday](problem1/births_by_weekday.png)
